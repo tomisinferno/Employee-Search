@@ -2,4 +2,5 @@
 A web application searching a database with giving parameters
 
 # NOTE
-Run db file before use
+Cloned repository should be put in localhost.
+Run db file in your SQL RDBMS before use.
